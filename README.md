@@ -1,7 +1,13 @@
 # AG-IUP32-8 module
 Photomultiplier module with Hamamatsu R6237 tube out of an AGFA CR 30-X Xray plate digitizer.
-
 This repository contains hardware schematics and a custom microcontroller firmware to use the module.
+## Related work
+Reverse engineering of this module on <a href="https://www.mikrocontroller.net/topic/288933">microcontroller.net</a> (german).
+
+Reverse engineering of a relate module on <a href="https://highvoltageforum.net/index.php?topic=7.0">highvoltageforum.net</a>.
+
+Collection of information from all these modules <a href="http://kaizerpowerelectronics.dk/high-voltage/photomultiplier-tube/">kaizerpowerelectronics.dk</a>.
+
 ## Connectors
 ### D-SUB 15
 Main interface connector with supply voltage and I2C interface
