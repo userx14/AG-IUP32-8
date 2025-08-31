@@ -1,3 +1,6 @@
 *.lck
 schematic/\#auto_saved_files\#
 schematic/_autosave-schematic.kicad_sch
+/firmware/mplab_X_Project/dist
+/firmware/mplab_X_Project/build
+/firmware/mplab_X_Project/nbproject/private
